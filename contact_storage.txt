@@ -1,0 +1,3 @@
+John Doe,555-1234,johndoe@example.com,Friend from work
+Jane Smith,555-5678,janesmith@example.com,Neighbor
+Mark Johnson,555-8765,markjohnson@example.com,College buddy
